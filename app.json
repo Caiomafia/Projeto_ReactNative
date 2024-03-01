@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Login_react",
-    "slug": "Login_react",
+    "name": "myapp",
+    "slug": "myapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
