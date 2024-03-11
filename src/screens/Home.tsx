@@ -6,7 +6,7 @@ import { Text , View } from "react-native";
 export  function Home(){
     return (
      <View>
-        <Text className=" text-center">Hello </Text>
+        <Text>Hello </Text>
      </View>
     );
 }
